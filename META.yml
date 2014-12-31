@@ -23,6 +23,7 @@ meta-spec:
 name: Map-Tube-Nanjing
 no_index:
   directory:
+    - examples
     - inc
     - share
     - t
