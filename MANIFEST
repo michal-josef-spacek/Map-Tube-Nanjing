@@ -21,6 +21,7 @@ META.yml
 Nanjing.pm
 README
 share/nanjing-map.xml
+SIGNATURE
 t/Map-Tube-Nanjing/00-use.t
 t/Map-Tube-Nanjing/01-version.t
 t/Map-Tube-Nanjing/02-pod_coverage.t
