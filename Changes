@@ -1,5 +1,6 @@
 0.02
  - Add Map::Tube::Graph to SEE ALSO section in doc.
+ - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Update META.yml and README files.
  - Update copyright years to 2015.
 
