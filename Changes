@@ -3,6 +3,7 @@
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Singapore to SEE ALSO section in doc.
+ - Add test of map validity.
  - Update META.yml and README files.
  - Update copyright years to 2015.
 

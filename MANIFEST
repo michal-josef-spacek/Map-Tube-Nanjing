@@ -26,6 +26,7 @@ t/Map-Tube-Nanjing/00-use.t
 t/Map-Tube-Nanjing/01-version.t
 t/Map-Tube-Nanjing/02-pod_coverage.t
 t/Map-Tube-Nanjing/03-pod.t
-t/Map-Tube-Nanjing/04-get_shortest_route.t
-t/Map-Tube-Nanjing/05-name.t
-t/Map-Tube-Nanjing/06-xml.t
+t/Map-Tube-Nanjing/04-map.t
+t/Map-Tube-Nanjing/05-get_shortest_route.t
+t/Map-Tube-Nanjing/06-name.t
+t/Map-Tube-Nanjing/07-xml.t
