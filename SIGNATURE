@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 dd8f297da5ac5f6c644157c370e60e6e9ea97a8e Changes
+SHA1 5b5c16da6a9f97ef2ebf38d636b311f1e01c1914 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
-SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
-SHA1 69e6ddbf18d5dbe5ddf65f075af5e2341a277c6f MANIFEST
-SHA1 5f1403573b0e4b333a6ad91da18c8c7a422294e9 META.yml
-SHA1 8f46a9a6588fcf2008cf382e39a4d11a0bb6d154 Makefile.PL
-SHA1 ce935ee1d6d15e6a0414c27c00f9699edf530ca9 Nanjing.pm
-SHA1 da07087f3aef6f76b9daef09221591806168113c README
+SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
+SHA1 2beef45fd6d9637611c52f9bfdf6f72a938af051 MANIFEST
+SHA1 43cac4e7b4842f7bd16964d19ce2da7a194bca5b META.yml
+SHA1 85e2d76af961865a500ceb6512b991c633c1e92f Makefile.PL
+SHA1 ac5160a0685cf118cadcbd97053a00238318f065 Nanjing.pm
+SHA1 7d54be1fafddc84762477ab9e432cd0dfcf3ea4d README
 SHA1 8e44c7eab99179f6b3b9c6907d8a4a52383734f5 examples/ex1.pl
 SHA1 e1401d6b001570f52bcb54332020f094bffc8280 examples/ex2.pl
 SHA1 c9017ef881c5fe25fbc0f5f4ff581c28a7abbb5b examples/ex3.pl
@@ -36,22 +36,23 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
 SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
 SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 5c1bec418f3761f3e7421cb7b40c2613a82571fa share/nanjing-map.xml
+SHA1 0559553ddc019639b0639f2e4e2ac0f0b129b681 share/nanjing-map.xml
 SHA1 ee2f13eabf10142d160c96cea277e93fad84f7aa t/Map-Tube-Nanjing/00-use.t
-SHA1 a7eea08c4d7e277b9a3c9c20d5f81c5836d016c8 t/Map-Tube-Nanjing/01-version.t
+SHA1 6ec0ea3cccf9454c055c0628e3246bdadba1b1e1 t/Map-Tube-Nanjing/01-version.t
 SHA1 21a558273bc155425944b60799f7a9bc24c2df27 t/Map-Tube-Nanjing/02-pod_coverage.t
 SHA1 f12636a952cfec2e1d47dc022640a9397e3cdcb8 t/Map-Tube-Nanjing/03-pod.t
-SHA1 b825c0a3e136b386e9e4e7fcf5f1acbc8a7a2fc4 t/Map-Tube-Nanjing/04-get_shortest_route.t
-SHA1 73af528e71c04ef1d54014125e57ad8fcbb1e6b5 t/Map-Tube-Nanjing/05-name.t
-SHA1 b26d5646739b86d34b6709763ddb127212b6a3bf t/Map-Tube-Nanjing/06-xml.t
+SHA1 e05d3413a198733125d08958cc8b59b59a620b30 t/Map-Tube-Nanjing/04-map.t
+SHA1 b825c0a3e136b386e9e4e7fcf5f1acbc8a7a2fc4 t/Map-Tube-Nanjing/05-get_shortest_route.t
+SHA1 73af528e71c04ef1d54014125e57ad8fcbb1e6b5 t/Map-Tube-Nanjing/06-name.t
+SHA1 b26d5646739b86d34b6709763ddb127212b6a3bf t/Map-Tube-Nanjing/07-xml.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJUo63zAAoJEAwa+cf4dLBaoFEH/Axcv4krnc5lIByub2q0Y9Rt
-CdK6XhnhduaE5RNzMIcZaY1haFYhMmhFJlyWnRnRQueVULcQ/6zYFpVHSqELO1WH
-sARgevJZ5JhTYR6KrzLP0DJAQesplsUJqmRizYLK1nf3kapDXigGpIkvhMvy4pt6
-89EIUvo9nAxOFoRr+hdpVzgvP+gUEDlErm+G9BPPzk3+UvQDJaM065Bc+fx608rI
-fa+opIZqHhwPgr/+6ot9A7BuVUAbENvOM40NuZDo223Po/PPzha+zU+rl3jsvsWJ
-+/ND/p/B0qhsmmAhsRPIZsqvnfnH+URV4ReLA50sonB1NGIGVreTgwWvl5DWz3Q=
-=Ivix
+iQEcBAEBAgAGBQJVAfUvAAoJEJe+XXKaIuTlz8sH/iFgkerhFGDbN2fTHsmjiJRe
+jP3wxarqXdNy9Yt3WMrggTREPxSc/g7yTGMUoaN1sCbe8yZS/XpmM1fdzFI6cYy6
+lKVNO5QoEQWtBqJJ1KgRn5COWdU//1wDwEcbJWHPNWU07xl0m9vtVs4wwxA1TtX8
+Q+O+oQwFOvkl/covma4mBncdscWSlx5yW2lZRa37Nro9UD7ESoy49hb0dCKOFL+s
+rm5P47DMEYjevxLnNLItrFRs8zHen7pNY5TaJnS2fKFxoBgMSnnIwGBv41p2ifiQ
+B43gkUt/4JgILR/HZHThrF7skwK6B1cmJgPNUzFd4aGSuxnDS07ONV5EWQLIs7E=
+=9dJH
 -----END PGP SIGNATURE-----
