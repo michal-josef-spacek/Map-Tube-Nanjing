@@ -28,8 +28,10 @@ SIGNATURE
 t/Map-Tube-Nanjing/01-use.t
 t/Map-Tube-Nanjing/02-version.t
 t/Map-Tube-Nanjing/03-map.t
-t/Map-Tube-Nanjing/04-get_shortest_route.t
-t/Map-Tube-Nanjing/05-name.t
-t/Map-Tube-Nanjing/06-xml.t
+t/Map-Tube-Nanjing/04-get_node_by_id.t
+t/Map-Tube-Nanjing/05-get_node_by_name.t
+t/Map-Tube-Nanjing/06-get_shortest_route.t
+t/Map-Tube-Nanjing/07-name.t
+t/Map-Tube-Nanjing/08-xml.t
 xt/Map-Tube-Nanjing/01-pod_coverage.t
 xt/Map-Tube-Nanjing/02-pod.t
