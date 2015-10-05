@@ -191,7 +191,7 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
 =begin html
 
 <a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/ex3.png" alt="南京地铁" width="300px" height="300px" />
 </a>
 
 =end html
