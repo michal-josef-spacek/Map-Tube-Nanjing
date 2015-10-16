@@ -4,6 +4,7 @@
   <lines>
     <line id="1" name="南京地铁1号线" color="blue"/>
     <line id="2" name="南京地铁2号线" color="red"/>
+    <line id="3" name="南京地铁3号线" color="green"/>
     <line id="10" name="南京地铁10号线" color="beige"/>
     <line id="S1" name="宁高城际轨道交通" color="cyan"/>
     <line id="S2" name="宁天城际轨道交通" color="orange"/>
@@ -66,6 +67,37 @@
     <station id="2-24" name="羊山公园" line="南京地铁2号线" link="2-23,2-25"/>
     <station id="2-25" name="南大仙林校区" line="南京地铁2号线" link="2-24,2-26"/>
     <station id="2-26" name="经天路" line="南京地铁2号线" link="2-25"/>
+
+    <!-- https://zh.wikipedia.org/wiki/南京地铁3号线 -->
+    <station id="3-01" name="林场站" line="南京地铁3号线" link="3-02"/>
+    <station id="3-02" name="星火路站" line="南京地铁3号线" link="3-01,3-03"/>
+    <station id="3-03" name="东大成贤学院站" line="南京地铁3号线" link="3-02,3-04"/>
+    <station id="3-04" name="泰冯路站" line="南京地铁3号线" link="3-03,3-05"/>
+    <station id="3-05" name="天润城站" line="南京地铁3号线" link="3-04,3-06"/>
+    <station id="3-06" name="柳洲东路站" line="南京地铁3号线" link="3-05,3-08"/>
+    <!-- <station id="3-07" name="上元门站" line="南京地铁3号线" link="3-06,3-08"/> -->
+    <station id="3-08" name="五塘广场站" line="南京地铁3号线" link="3-06,3-09"/>
+    <station id="3-09" name="小市站" line="南京地铁3号线" link="3-08,3-10"/>
+    <station id="3-10" name="南京站" line="南京地铁3号线" link="3-09,3-11"/>
+    <station id="3-11" name="南京林业大学·新庄站" line="南京地铁3号线" link="3-10,3-12"/>
+    <station id="3-12" name="鸡鸣寺站" line="南京地铁3号线" link="3-11,3-13"/>
+    <station id="3-13" name="浮桥站" line="南京地铁3号线" link="3-12,3-14"/>
+    <station id="3-14" name="大行宫站" line="南京地铁3号线" link="3-13,3-15"/>
+    <station id="3-15" name="常府街站" line="南京地铁3号线" link="3-14,3-16"/>
+    <station id="3-16" name="夫子庙站" line="南京地铁3号线" link="3-15,3-17"/>
+    <station id="3-17" name="武定门站" line="南京地铁3号线" link="3-16,3-18"/>
+    <station id="3-18" name="雨花门站" line="南京地铁3号线" link="3-17,3-19"/>
+    <station id="3-19" name="卡子门站" line="南京地铁3号线" link="3-18,3-20"/>
+    <station id="3-20" name="大明路站" line="南京地铁3号线" link="3-19,3-21"/>
+    <station id="3-21" name="明发广场站" line="南京地铁3号线" link="3-20,3-22"/>
+    <station id="3-22" name="南京南站" line="南京地铁3号线" link="3-21,3-23"/>
+    <station id="3-23" name="宏运大道站" line="南京地铁3号线" link="3-22,3-24"/>
+    <station id="3-24" name="胜太西路站" line="南京地铁3号线" link="3-23,3-25"/>
+    <station id="3-25" name="天元西路站" line="南京地铁3号线" link="3-24,3-26"/>
+    <station id="3-26" name="九龙湖站" line="南京地铁3号线" link="3-25,3-27"/>
+    <station id="3-27" name="诚信大道站" line="南京地铁3号线" link="3-26,3-28"/>
+    <station id="3-28" name="东大九龙湖校区站" line="南京地铁3号线" link="3-27,3-29"/>
+    <station id="3-29" name="秣周东路站" line="南京地铁3号线" link="3-28"/>
 
     <!-- https://zh.wikipedia.org/wiki/南京地铁10号线 -->
     <station id="10-02" name="小行" line="南京地铁10号线" link="安德门,10-03"/>

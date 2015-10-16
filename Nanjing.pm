@@ -186,7 +186,7 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
  system "ls -l Nanjing.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 297815 Dec 31 00:04 Nanjing.png
+ # -rw-r--r-- 1 skim skim 394246 Oct 16 11:25 Nanjing.png
 
 =begin html
 
@@ -219,6 +219,7 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
  # 南京地铁10号线
  # 南京地铁1号线
  # 南京地铁2号线
+ # 南京地铁3号线
  # 宁天城际轨道交通
  # 宁高城际轨道交通
 

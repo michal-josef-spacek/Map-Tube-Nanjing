@@ -26,4 +26,4 @@ $g->graph('Nanjing.png');
 system "ls -l Nanjing.png";
 
 # Output like:
-# -rw-r--r-- 1 skim skim 297815 Dec 31 00:04 Nanjing.png
+# -rw-r--r-- 1 skim skim 394246 Oct 16 11:25 Nanjing.png
