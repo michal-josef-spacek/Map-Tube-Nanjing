@@ -14,19 +14,19 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 a14b60e271660b06f7582c93eaa12aacf2ccd488 Changes
+SHA1 3643cbaf125317628e48f354634e5ccc6c7a47b5 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 8f4b94b0b5ef7565c1f3ee8c9b8eb0f2dda21ec1 MANIFEST
-SHA1 3aba6c18fe5079c42d876e646d1c194eac46ec4f META.yml
-SHA1 7125c32b2fa851e6b4bdd5af9b0d430e7a044a53 Makefile.PL
-SHA1 634f21a2e3290de78bc91590b7eb391d7569c8ec Nanjing.pm
-SHA1 8f193b0018db3883c677b0f20db0e6221c0aded6 README
+SHA1 e0a7af625fbbf9b7ef09a165505c53957d79b0cd META.yml
+SHA1 044330d1a8c3f44bdbb45a46d161ab07ac00ebe9 Makefile.PL
+SHA1 e5ea397d52720a0f600c58289afd32033e17e852 Nanjing.pm
+SHA1 87c7f635aeb5881f0e04fb5976cb9fe87069a11e README
 SHA1 8e44c7eab99179f6b3b9c6907d8a4a52383734f5 examples/ex1.pl
 SHA1 e1401d6b001570f52bcb54332020f094bffc8280 examples/ex2.pl
-SHA1 c9017ef881c5fe25fbc0f5f4ff581c28a7abbb5b examples/ex3.pl
-SHA1 38638808faef1edb1b4bbb2c16b3d59f250c69bc examples/ex4.pl
-SHA1 bf25e7bda4f971069eb50abb6d321cee920c6537 images/ex3.png
+SHA1 c6afd908ca3cbfe467d424f8507edc55445aaecf examples/ex3.pl
+SHA1 991959d5cac7b35024eb7cdb51cecbf86cb6faf8 examples/ex4.pl
+SHA1 b17bf7761864d79381446d4fdf3df65163c54a55 images/ex3.png
 SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
 SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
 SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
@@ -39,13 +39,13 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 42de62df31eaf796d8bfd49a11fdc9cff1b50b74 inc/Module/Install/Share.pm
 SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
-SHA1 0559553ddc019639b0639f2e4e2ac0f0b129b681 share/nanjing-map.xml
+SHA1 86940ec0ccd069fb95deaa98b12ac1cf6d93ffa9 share/nanjing-map.xml
 SHA1 ee2f13eabf10142d160c96cea277e93fad84f7aa t/Map-Tube-Nanjing/01-use.t
-SHA1 33a681a6fe09f56868e5ccaa7b853a765aab5596 t/Map-Tube-Nanjing/02-version.t
+SHA1 e22e9ac6a1bd0ca0a329a7f75c67b5000373ec9e t/Map-Tube-Nanjing/02-version.t
 SHA1 e05d3413a198733125d08958cc8b59b59a620b30 t/Map-Tube-Nanjing/03-map.t
-SHA1 6c1c9de4ca129543fb7fc3ceb27202e060b8f68c t/Map-Tube-Nanjing/04-get_node_by_id.t
-SHA1 48a07d804f8a19be264d93c4d2ce35ed8ba6c538 t/Map-Tube-Nanjing/05-get_node_by_name.t
-SHA1 92efc436555c2bd949f9bbf1fe81a6a1a4692cbe t/Map-Tube-Nanjing/06-get_shortest_route.t
+SHA1 0892f8ee3d598c4ea7b644a52e42fa2aa24e945f t/Map-Tube-Nanjing/04-get_node_by_id.t
+SHA1 0205fe851316051e6e26e3bda2f5e7efd487ed3c t/Map-Tube-Nanjing/05-get_node_by_name.t
+SHA1 95b22dbb25119583d35128be198b6cf43df37461 t/Map-Tube-Nanjing/06-get_shortest_route.t
 SHA1 c756f6ec4067b088c54f891ed207544819b7e1fd t/Map-Tube-Nanjing/07-name.t
 SHA1 dfba495dd3b211a12875def13407fe885b8ab9b7 t/Map-Tube-Nanjing/08-xml.t
 SHA1 21a558273bc155425944b60799f7a9bc24c2df27 xt/Map-Tube-Nanjing/01-pod_coverage.t
@@ -53,11 +53,11 @@ SHA1 f12636a952cfec2e1d47dc022640a9397e3cdcb8 xt/Map-Tube-Nanjing/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWEpLzAAoJEJe+XXKaIuTl4IEIAKf8HLeQoblVZ2CADWohNGfF
-WvPWUrL9YqeZA85geXqXrxCJgjVwHxM45WPl3x4HIjx9SKIK52zDNnySKhC70KnS
-S27MQ6DI3c2sRMMaKmLoXy+ghoHbUIQGxMAmDDd4VVbjB+s1hjcbxcWruhnbpR3L
-hofCPBITgenbIh+7vBD4SGMRhr/MayA3mZOoGz+SfOumuF2j6Hu2VHUveLboTRZe
-TZSYqPlRNjRc7xmTNjGksfK0hzOuQB9AV1ORJ10ROZqzvqis2vA7Zs7d6XgVPf8A
-5MLdLoCJr3GPYKlyRxONs6qAda6v4a3oEzeKJy4CYfnRYAMQ/10p17kQEvt2WNU=
-=EabJ
+iQEcBAEBAgAGBQJWIMQpAAoJEJe+XXKaIuTliNEIAJmgmmvwqC53lv341XVX4GYp
+fsTj+WS16s/EOyaJpFy22ThRWOyzd1Zpq9PMosSVhprvVjmcdHsp6F7pkRk8j296
+xJXiFqPMCau98Or1p7NMiTwv4DJmT0pazmQC1vlC0ZuMHUE+o9JwCjGGbvnDUq+a
+xhdV5quJ7SgsIlSg3sBqxiVDQyiF3/yBTUc93Ifj23CNLtGTnL27ui/ElL8tNmcR
+6cBFFIS//9qmHbp6Vxufn0uhGynluSEzJjDXsholOwb7/Yk6kA6Vgq4kgz84Rfak
+KCdR15AELgdR3sSvrNE0oGoAwiJT2mFq+TkuyVQV1KcjYWOUKQbfQ6dOR0MVqow=
+=kSAn
 -----END PGP SIGNATURE-----
