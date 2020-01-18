@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Nanjing;
 
@@ -88,11 +86,9 @@ EXAMPLE1
      # Route: 鼓楼 (南京地铁1号线), 大厂 (宁天城际轨道交通)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::Nanjing;
 
      # Object.
@@ -108,11 +104,9 @@ EXAMPLE2
      # XML file: .*/nanjing-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::Nanjing;
@@ -137,11 +131,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 394246 Oct 16 11:25 Nanjing.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Nanjing;
 
@@ -163,11 +155,9 @@ EXAMPLE4
      # 宁高城际轨道交通
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Nanjing;
 
