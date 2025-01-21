@@ -177,12 +177,12 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
  system "ls -l Nanjing.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 394246 Oct 16 11:25 Nanjing.png
+ # -rw-r--r-- 1 skim skim 336513 21. led 21.02 Nanjing.png
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/ex3.png" alt="南京地铁" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/Nanjing.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/Nanjing.png" alt="南京地铁" width="300px" height="300px" />
 </a>
 
 =end html
