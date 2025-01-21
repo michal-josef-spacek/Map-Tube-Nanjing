@@ -7,7 +7,7 @@
  - Update .travis.yml to reality.
  - Update Module::Install to 1.19 version.
  - Update author name.
- - Update copyright years to 2017.
+ - Update copyright years.
 
 0.04 2015-10-16T11:32:20+02:00
  - Add 3号线 line.
