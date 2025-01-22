@@ -181,8 +181,8 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/Nanjing.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Nanjing/master/images/Nanjing.png" alt="南京地铁" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Nanjing/master/images/Nanjing.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Nanjing/master/images/Nanjing.png" alt="南京地铁" width="300px" height="300px" />
 </a>
 
 =end html
@@ -298,7 +298,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Nanjing>
+L<https://github.com/michal-josef-spacek/Map-Tube-Nanjing>
 
 =head1 AUTHOR
 
