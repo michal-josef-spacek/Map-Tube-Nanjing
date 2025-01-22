@@ -33,6 +33,7 @@ Map::Tube::Nanjing - Interface to the Nanjing Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Nanjing;
+
  my $obj = Map::Tube::Nanjing->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
