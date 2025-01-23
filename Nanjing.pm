@@ -115,6 +115,8 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
 
 =head1 EXAMPLE1
 
+=for comment filename=print_nanjing_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
 
 =head1 EXAMPLE2
 
+=for comment filename=print_nanjing_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -153,6 +157,8 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
  # XML file: .*/nanjing-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_nanjing_image.pl
 
  use strict;
  use warnings;
@@ -190,6 +196,8 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
 
 =head1 EXAMPLE4
 
+=for comment filename=print_nanjing_lines.pl
+
  use strict;
  use warnings;
 
@@ -214,6 +222,8 @@ For more information about Nanjing Map, click L<here|https://en.wikipedia.org/wi
  # 宁高城际轨道交通
 
 =head1 EXAMPLE5
+
+=for comment filename=print_nanjing_line_stations.pl
 
  use strict;
  use warnings;
